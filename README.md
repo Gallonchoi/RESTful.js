@@ -1,5 +1,4 @@
 RESTful plugin for js
--------------
 
 #### Dependencies:
 - JQuery
@@ -18,4 +17,3 @@ RESTful plugin for js
     });
 </script>
 ```
-Once the above form triggers submit event, then it will **PUT** the msg:"Hello, world!" to www.example.com/example
